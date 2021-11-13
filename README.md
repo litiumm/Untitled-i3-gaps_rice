@@ -1,6 +1,6 @@
 # Untitled-i3-gaps_rice
 
-My i3-gaps rice dot files.
+My Gruvbox-color-scheme based i3-gaps rice dot files.
 
 [Wallpaper used in the screenshots](https://www.reddit.com/r/wallpaper/comments/q4nibr/3840x2160_pretty/)
 
