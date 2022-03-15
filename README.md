@@ -11,7 +11,3 @@ My Gruvbox-color-scheme based i3-gaps rice dot files.
 ![Screenshot2](https://raw.githubusercontent.com/kingMage/Untitled-i3-gaps_rice/main/screenshots/lock-screen-with-overlay.png.png?token=AWHO75F7XSKE3CV5SK7ULVDBPPDNQ)
 
 ![Screenshot3](https://raw.githubusercontent.com/kingMage/Untitled-i3-gaps_rice/main/screenshots/lock-screen-with-overlay01.png?token=AWHO75AGZNEJ4UFMVOJUFMTBPPDO2)
-
-## Todo
-
-- [ ] Complete README.md
